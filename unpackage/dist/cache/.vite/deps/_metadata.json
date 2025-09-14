@@ -1,0 +1,25 @@
+{
+  "hash": "ac9632be",
+  "configHash": "a54d142d",
+  "lockfileHash": "851dc0d4",
+  "browserHash": "e7557832",
+  "optimized": {
+    "uview-pro": {
+      "src": "../../../../../node_modules/uview-pro/index.ts",
+      "file": "uview-pro.js",
+      "fileHash": "0b0ffafd",
+      "needsInterop": false
+    },
+    "x2js": {
+      "src": "../../../../../node_modules/x2js/x2js.js",
+      "file": "x2js.js",
+      "fileHash": "2d8bac18",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-TYRVL62N": {
+      "file": "chunk-TYRVL62N.js"
+    }
+  }
+}
